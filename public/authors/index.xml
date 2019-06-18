@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on T/T本部</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on T/T本部</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2019 19:33:37 +0900</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 18 Jun 2019 19:33:37 +0900</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;御茶ノ水医療IT研究会T/T(ティーパーティー)は東京医科歯科大学の医学生を中心に結成されたIT技術の医療応用をテーマとした団体です。「目的達成の場とツール」であることをコンセプトとして個人の活動の活発化、適切な情報・仲間へのアクセスを助ける環境を備えています。医療への最新技術の取り入れに関心があれば、分野・年齢を問わず参加できます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
